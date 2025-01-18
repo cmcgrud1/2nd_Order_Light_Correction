@@ -21,6 +21,9 @@ AnalyzeDat.py - the majority of this script is used for other analyses. However,
 2nd_Order_light - a plot comparing a test observation with the filter (UT171108), without the filter (UT170804), and without the filter but convolved with the throughput of the filter. Comparing the spectrum of UT171108 (blue) and UT170804 after being convolved with the filter’s throughput (green) highlights the effect of the second order light.
 
 
+
+
+
 *Dependencies:*
 
 astropy - https://www.astropy.org/
